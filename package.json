@@ -1,0 +1,28 @@
+{
+  "name": "ffp",
+  "version": "1.0.0",
+  "description": "Generate Mermaid charts for flag football plays",
+  "main": "src/index.js",
+  "bin": {
+    "ffp": "src/index.js"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justicj/ffp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/justicj/ffp/issues"
+  },
+  "homepage": "https://github.com/justicj/ffp#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
