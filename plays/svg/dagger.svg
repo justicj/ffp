@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="420" viewBox="0 0 560 420">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5"
+        markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#2471a3"/>
+    </marker>
+    <marker id="ah" viewBox="0 0 10 10" refX="9" refY="5"
+        markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#c0392b"/>
+    </marker>
+    <marker id="am" viewBox="0 0 10 10" refX="9" refY="5"
+        markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#d35400"/>
+    </marker>
+    <marker id="ay" viewBox="0 0 10 10" refX="9" refY="5"
+        markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#1e8449"/>
+    </marker>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5"
+        markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#7d3c98"/>
+    </marker>
+    <marker id="al" viewBox="0 0 10 10" refX="9" refY="5"
+        markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,1 L10,5 L0,9 Z" fill="#27ae60"/>
+    </marker>
+  </defs>
+  <rect width="560" height="420" fill="#ecf5e7" rx="6"/>
+  <line x1="20" y1="193"  x2="540" y2="193"  stroke="#c5dfc0" stroke-width="1"/>
+  <line x1="20" y1="128" x2="540" y2="128" stroke="#c5dfc0" stroke-width="1"/>
+  <line x1="20" y1="63" x2="540" y2="63" stroke="#c5dfc0" stroke-width="1"/>
+  <text x="538" y="198"  font-size="9" fill="#b0ccab" text-anchor="end" font-family="Arial"> 5 yds</text>
+  <text x="538" y="133" font-size="9" fill="#b0ccab" text-anchor="end" font-family="Arial">10 yds</text>
+  <text x="538" y="68" font-size="9" fill="#b0ccab" text-anchor="end" font-family="Arial">15 yds</text>
+  <line x1="20" y1="258" x2="540" y2="258" stroke="#999" stroke-width="1.5" stroke-dasharray="8,4"/>
+  <text x="24" y="253" font-size="9" fill="#999" font-family="Arial">— LOS —</text>
+  <line x1="280" y1="273" x2="280" y2="334"
+        stroke="#ccc" stroke-width="1" stroke-dasharray="3,3"/>
+  <text x="280" y="28" font-size="17" font-weight="bold" fill="#1a1a1a" text-anchor="middle" font-family="Arial">Dagger</text>
+  <circle cx="55" cy="258" r="15" fill="#2471a3" stroke="white" stroke-width="2"/>
+  <text x="55" y="263" font-size="13" font-weight="bold" fill="white" text-anchor="middle" font-family="Arial">Z</text>
+  <circle cx="395" cy="258" r="15" fill="#d35400" stroke="white" stroke-width="2"/>
+  <text x="395" y="263" font-size="13" font-weight="bold" fill="white" text-anchor="middle" font-family="Arial">H</text>
+  <circle cx="280" cy="258" r="15" fill="#c8a200" stroke="white" stroke-width="2"/>
+  <text x="280" y="263" font-size="13" font-weight="bold" fill="white" text-anchor="middle" font-family="Arial">C</text>
+  <circle cx="165" cy="258" r="15" fill="#1e8449" stroke="white" stroke-width="2"/>
+  <text x="165" y="263" font-size="13" font-weight="bold" fill="white" text-anchor="middle" font-family="Arial">Y</text>
+  <circle cx="505" cy="258" r="15" fill="#c0392b" stroke="white" stroke-width="2"/>
+  <text x="505" y="263" font-size="13" font-weight="bold" fill="white" text-anchor="middle" font-family="Arial">X</text>
+  <circle cx="280" cy="349" r="15" fill="#222222" stroke="white" stroke-width="2"/>
+  <text x="280" y="354" font-size="13" font-weight="bold" fill="white" text-anchor="middle" font-family="Arial">Q</text>
+  <circle cx="195" cy="349" r="15" fill="#7d3c98" stroke="white" stroke-width="2"/>
+  <text x="195" y="354" font-size="13" font-weight="bold" fill="white" text-anchor="middle" font-family="Arial">R</text>
+  <path d="M 505,258 L 505,50" fill="none" stroke="#c0392b" stroke-width="2.5" stroke-linecap="round" marker-end="url(#ah)"/>
+  <path d="M 55,258 L 55,128 L 285,128" fill="none" stroke="#2471a3" stroke-width="2.5" stroke-linecap="round" marker-end="url(#a)"/>
+  <path d="M 165,258 C 165,232 265,225 375,222" fill="none" stroke="#1e8449" stroke-width="2.5" stroke-dasharray="6,3" stroke-linecap="round" marker-end="url(#ay)"/>
+  <path d="M 373,244 Q 395,209 417,244" fill="rgba(100,100,100,0.12)" stroke="#666666" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M 173,335 Q 195,300 217,335" fill="rgba(100,100,100,0.12)" stroke="#666666" stroke-width="2.5" stroke-linecap="round"/>
+  <rect x="10" y="368" width="540" height="50" fill="rgba(255,255,255,0.82)" rx="4"/>
+  <text x="18" y="385" font-size="11" fill="#c0392b"  font-family="Arial">🔥 Hot: Y → Shallow Drag</text>
+  <text x="18" y="401" font-size="11" fill="#2471a3" font-family="Arial">🎯 Primary: Z → Dig (X clears the safety)</text>
+  <text x="18" y="417" font-size="11" fill="#2471a3" font-family="Arial">↩ Secondary: X → Go (safety over-rotates)</text>
+</svg>
